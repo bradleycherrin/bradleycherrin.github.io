@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.16aac937.chunk.css",
-    "main.js": "/static/js/main.bccb3fe6.chunk.js",
-    "main.js.map": "/static/js/main.bccb3fe6.chunk.js.map",
+    "main.js": "/static/js/main.bb0e859e.chunk.js",
+    "main.js.map": "/static/js/main.bb0e859e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58ced6f7.js",
     "runtime-main.js.map": "/static/js/runtime-main.58ced6f7.js.map",
     "static/js/2.a27461ce.chunk.js": "/static/js/2.a27461ce.chunk.js",
@@ -14,26 +14,27 @@
     "static/js/4.1d22973a.chunk.js": "/static/js/4.1d22973a.chunk.js",
     "static/js/4.1d22973a.chunk.js.map": "/static/js/4.1d22973a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f552cf420ce472a86a9f94366a65cd1d.js": "/precache-manifest.f552cf420ce472a86a9f94366a65cd1d.js",
+    "precache-manifest.591a4149f3224f93a77b288b9266533b.js": "/precache-manifest.591a4149f3224f93a77b288b9266533b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.30b9e4db.chunk.css.map": "/static/css/3.30b9e4db.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
     "static/css/main.16aac937.chunk.css.map": "/static/css/main.16aac937.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/cncs_white1.jpg": "/static/media/cncs_white1.8fc7cbe5.jpg",
+    "static/media/cncs_white1.png": "/static/media/cncs_white1.4c4b2c08.png",
     "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
-    "static/media/ibmLogo.png": "/static/media/ibmLogo.afe8990c.png",
-    "static/media/jenkins.jpg": "/static/media/jenkins.6802b32d.jpg",
+    "static/media/ibmLogo.png": "/static/media/ibmLogo.4dba8080.png",
+    "static/media/ibmLogoNew.png": "/static/media/ibmLogoNew.07960e61.png",
+    "static/media/jenkins.png": "/static/media/jenkins.d0b54c6a.png",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.png": "/static/media/manOnTable.934d9c9e.png",
-    "static/media/master-inventor.png": "/static/media/master-inventor.43f3b78d.png",
-    "static/media/nc-state.png": "/static/media/nc-state.03314e3c.png",
+    "static/media/master-inventor.png": "/static/media/master-inventor.60c15d60.png",
+    "static/media/nc-state.png": "/static/media/nc-state.25ad6f39.png",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.58ced6f7.js",
     "static/js/2.a27461ce.chunk.js",
     "static/css/main.16aac937.chunk.css",
-    "static/js/main.bccb3fe6.chunk.js"
+    "static/js/main.bb0e859e.chunk.js"
   ]
 }
