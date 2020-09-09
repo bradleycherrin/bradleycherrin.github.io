@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.16aac937.chunk.css",
-    "main.js": "/static/js/main.0abe1cd0.chunk.js",
-    "main.js.map": "/static/js/main.0abe1cd0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab55d606.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab55d606.js.map",
-    "static/js/2.a6c94621.chunk.js": "/static/js/2.a6c94621.chunk.js",
-    "static/js/2.a6c94621.chunk.js.map": "/static/js/2.a6c94621.chunk.js.map",
+    "main.js": "/static/js/main.95b7294a.chunk.js",
+    "main.js.map": "/static/js/main.95b7294a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6fa03284.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6fa03284.js.map",
+    "static/js/2.25475e01.chunk.js": "/static/js/2.25475e01.chunk.js",
+    "static/js/2.25475e01.chunk.js.map": "/static/js/2.25475e01.chunk.js.map",
     "static/css/3.30b9e4db.chunk.css": "/static/css/3.30b9e4db.chunk.css",
-    "static/js/3.bcacb6a4.chunk.js": "/static/js/3.bcacb6a4.chunk.js",
-    "static/js/3.bcacb6a4.chunk.js.map": "/static/js/3.bcacb6a4.chunk.js.map",
+    "static/js/3.3161e352.chunk.js": "/static/js/3.3161e352.chunk.js",
+    "static/js/3.3161e352.chunk.js.map": "/static/js/3.3161e352.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
-    "static/js/4.1d22973a.chunk.js": "/static/js/4.1d22973a.chunk.js",
-    "static/js/4.1d22973a.chunk.js.map": "/static/js/4.1d22973a.chunk.js.map",
+    "static/js/4.2e48d54d.chunk.js": "/static/js/4.2e48d54d.chunk.js",
+    "static/js/4.2e48d54d.chunk.js.map": "/static/js/4.2e48d54d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.574e6c8222f5b49cce8fa2a202bd6ca1.js": "/precache-manifest.574e6c8222f5b49cce8fa2a202bd6ca1.js",
+    "precache-manifest.f08dbb1054f9ec383f577a8b7693892a.js": "/precache-manifest.f08dbb1054f9ec383f577a8b7693892a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.30b9e4db.chunk.css.map": "/static/css/3.30b9e4db.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
@@ -22,9 +22,7 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/cncs_white1.png": "/static/media/cncs_white1.4c4b2c08.png",
     "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
-    "static/media/ibmLogo.png": "/static/media/ibmLogo.4dba8080.png",
     "static/media/ibmLogoNew.png": "/static/media/ibmLogoNew.07960e61.png",
-    "static/media/jenkins.png": "/static/media/jenkins.d0b54c6a.png",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.png": "/static/media/manOnTable.934d9c9e.png",
     "static/media/master-inventor.png": "/static/media/master-inventor.60c15d60.png",
@@ -32,9 +30,9 @@
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab55d606.js",
-    "static/js/2.a6c94621.chunk.js",
+    "static/js/runtime-main.6fa03284.js",
+    "static/js/2.25475e01.chunk.js",
     "static/css/main.16aac937.chunk.css",
-    "static/js/main.0abe1cd0.chunk.js"
+    "static/js/main.95b7294a.chunk.js"
   ]
 }
